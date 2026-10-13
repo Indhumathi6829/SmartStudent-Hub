@@ -1,6 +1,6 @@
 # SmartStudent Hub — Smart Student Record Management API
 
-> **EWB Edu Tech Pvt. Ltd. — Python Backend Internship Assignment**
+> 
 
 ---
 
