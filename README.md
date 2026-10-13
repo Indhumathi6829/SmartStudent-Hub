@@ -653,4 +653,3 @@ Your submission URL will be:
 ---
 
 *Built with FastAPI, SQLAlchemy, SQLite, and Pydantic.*
-*EWB Edu Tech Pvt. Ltd. — Python Backend Internship Assignment*
